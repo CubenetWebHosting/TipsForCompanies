@@ -1,4 +1,4 @@
-# Comprehensive Compliance Cheat Sheet for Companies in South Africa
+# Compliance Cheat Sheet for Companies in South Africa
 
 ## 1. SARS (South African Revenue Service)
 - **Registration:** Companies need to register with SARS upon starting their business operations.
